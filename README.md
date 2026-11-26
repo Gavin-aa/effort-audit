@@ -73,13 +73,13 @@
 ## 安装（DeepSeek Harness）
 
 ```bash
-git clone https://github.com/<your-name>/effort-audit ~/.dsh/skills/effort-audit
+git clone https://github.com/Gavin-aa/effort-audit ~/.dsh/skills/effort-audit
 ```
 
 Windows：
 
 ```powershell
-git clone https://github.com/<your-name>/effort-audit $env:USERPROFILE\.dsh\skills\effort-audit
+git clone https://github.com/Gavin-aa/effort-audit $env:USERPROFILE\.dsh\skills\effort-audit
 ```
 
 装完确认目录里是 `SKILL.md`，重启 DSH 或刷新会话，技能列表里就会出现 `effort-audit`。
